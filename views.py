@@ -1,4 +1,5 @@
 
+
 import os
 from main import app
 from main import db
@@ -1343,4 +1344,5 @@ def page_not_found(e):
 
 
 app.secret_key = "sekretny klucz"
+
 
